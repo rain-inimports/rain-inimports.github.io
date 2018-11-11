@@ -1,0 +1,46 @@
+body{
+	margin: 0;
+	font-family: 'Lato', sans-serif;
+}
+
+
+
+h1 {color: white;
+	padding-top: 400px;
+
+}	
+
+p{
+	font-size: 16pt;
+	padding-left: 20px;
+}
+
+.gap{
+
+	margin-top: 15px;
+}
+
+.plane{
+	width: 500px;
+	height: 300px;
+	margin-left: 3px;
+
+}
+
+.truck{
+
+	width: 500px;
+	height: 300px;
+	margin-left: 3px;
+}
+
+.ship{
+	width:500px;
+	height: 300px;
+	margin-left: 3px;
+}
+
+.card{
+	margin-left: 10px
+
+}
